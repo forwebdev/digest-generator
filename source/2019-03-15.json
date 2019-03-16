@@ -1,0 +1,75 @@
+{
+  "description": "Вложенные CSS-селекторы, встроенные в браузер модули, асинхронная замена localStorage, PWA на десктопе, генерация иконок, высокие нагрузки и Node.js, управление кешем, Git без внутренних деталей",
+  "items": [
+    {
+      "url": "https://drafts.csswg.org/css-nesting-1/",
+      "title": "CSS Nesting Module",
+      "description": "Хорошие новости: рабочая группа CSS одобрила черновик спецификации вложенных селекторов, давно доступных в препроцессорах. Ждём дальнейшего развития событий."
+    },
+    {
+      "url": "https://developers.google.com/web/updates/2019/03/kv-storage",
+      "title": "KV Storage: the Web's First Built-in Module",
+      "description": "Команда Chrome экспериментирует с расширением стандартной библиотеки, добавляя встроенные в браузер модули. Уже можно попробовать первый модуль — KV Storage (асинхронная замена localStorage)."
+    },
+    {
+      "url": "https://developers.google.com/web/progressive-web-apps/desktop",
+      "title": "Desktop Progressive Web Apps",
+      "description": "С релизом Chrome 73 прогрессивные веб-приложения поддерживаются на всех основных десктопных платформах: Windows, macOS и Linux."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/03/aspect-ratio-unit-css/",
+      "title": "Designing An Aspect Ratio Unit For CSS",
+      "description": "Рейчел Эндрю от лица рабочей группы CSS рассказала о процессе и результатах проектирования новой единицы измерения aspect-ratio."
+    },
+    {
+      "url": "https://habr.com/p/441898/",
+      "title": "Sketch + Node.js: генерируем иконки для множества платформ и брендов",
+      "description": "Инженеры Badoo поделились опытом автоматизации сложного процесса работы с иконками в большом продукте."
+    },
+    {
+      "url": "https://medium.com/web-standards/aria-live-regions-713f6a7813d3",
+      "title": "Всё, что нужно знать про ARIA Live Regions",
+      "description": "Татьяна Фокина рассказала, как сделать обновление содержимого страницы доступным для скринридеров."
+    },
+    {
+      "url": "https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests",
+      "title": "How, in general, does Node.js handle 10,000 concurrent requests?",
+      "description": "Иллюстрированное объяснение того, почему и как Node.js справляется с обработкой 10 000 параллельных запросов без многопоточности."
+    },
+    {
+      "url": "https://csswizardry.com/2019/03/cache-control-for-civilians/",
+      "title": "Cache-Control for Civilians",
+      "description": "Гарри Робертс с подробным объяснением механики работы и вариантов использования HTTP-заголовка Cache-Control для управления кешем."
+    },
+    {
+      "url": "https://habr.com/ru/post/443032/",
+      "title": "Веб-компоненты в реальном мире",
+      "description": "Борис Сердюк об обычно умалчиваемых особенностях использования веб-компонентов и сценариях их оправданного применения."
+    },
+    {
+      "url": "https://youtu.be/YHPWG23cS4c",
+      "title": "Пишем простой сервер с кластеризацией на Node.js",
+      "description": "Андрей Мелихов объяснил, как модуль cluster может помочь в разработке отказоустойчивого сервера, способного выдерживать большие нагрузки."
+    },
+    {
+      "url": "https://microsoft.github.io/frontend-bootcamp/",
+      "title": "Frontend Bootcamp",
+      "description": "Двухдневный воркшоп Microsoft по основам фронтенда: от HTML/CSS/JS/React до тестирования, управления состоянием и TypeScript"
+    },
+    {
+      "url": "https://github.com/pikapkg/web",
+      "title": "@pika/web",
+      "description": "Инструмент, возвращающий во фронтенд былую простоту: используйте ES-модули прямо из NPM в браузере без конфигурации и сборщиков вроде вебпака."
+    },
+    {
+      "url": "https://books.thoughtbot.com/assets/goal-oriented-git.pdf",
+      "title": "Goal-Oriented Git (PDF, 300 КБ)",
+      "description": "Книга-руководство по Git с фокусом на решении распространённых задач, без погружения в сложную терминологию и внутренние детали работы."
+    },
+    {
+      "url": "https://felix-kling.de/js-loose-comparison/",
+      "title": "JavaScript “loose” comparison step by step",
+      "description": "Пошаговая визуализация алгоритма нестрого сравнения (==) с приведением типов в JavaScript."
+    }
+  ]
+}
