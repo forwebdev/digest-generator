@@ -1,24 +1,27 @@
-const he = require("he");
 const { renderBaseMarkup } = require("./base");
 
-function renderImage(item) {
-  if (!item.image) {
+function renderImage({ image, title }) {
+  if (!image) {
     return "";
   }
 
-  return `<mj-image src="${item.image}" alt="${he.escape(item.title)}" />\n`;
+  return `<mj-image src="${image.url}" alt="${image.alt || title}" />\n`;
 }
 
-function renderTitle(item) {
-  return `<mj-text font-size="20px" line-height="30px" padding-bottom="0"><a href="${
-    item.url
-  }">${he.escape(item.title)}</a></mj-text>\n`;
+function renderTitle({ title, url }) {
+  const titleContent = url ? `<a href="${url}">${title}</a>` : title;
+
+  return `<mj-text font-size="20px" line-height="30px" padding-bottom="0">${titleContent}</mj-text>\n`;
 }
 
-function renderDescription(item) {
-  return `<mj-text line-height="24px">${he.escape(
-    item.description
-  )}</mj-text>\n`;
+function renderDescription({ description }) {
+  const descriptionParagraphs = Array.isArray(description)
+    ? description
+    : [description];
+
+  return descriptionParagraphs
+    .map(paragraph => `<mj-text line-height="24px">${paragraph}</mj-text>`)
+    .join("\n");
 }
 
 function renderDivider() {

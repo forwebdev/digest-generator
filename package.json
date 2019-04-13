@@ -13,7 +13,6 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "he": "1.2.0",
     "rimraf": "2.6.3"
   }
 }

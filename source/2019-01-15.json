@@ -1,0 +1,43 @@
+{
+  "title": "Дайджест Форвеба №1",
+  "subtitle": "Важные новости и материалы первой половины января 2019",
+  "description": "Бесплатные приватные репозитории на GitHub, как изучать CSS, загрузка картинок без перерисовки, фреймворк для интернационализации от Facebook",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-01-15/",
+  "items": [
+    {
+      "url": "https://blog.github.com/2019-01-07-new-year-new-github/",
+      "title": "Бесплатные приватные репозитории на GitHub",
+      "description": "Приватные репозитории на GitHub теперь бесплатны для разработчиков, единственное ограничение — не больше трёх коллабораторов. Забавный факт: анонс <a href=\"https://mobile.twitter.com/matthewhughes/status/1082343527797977090\">опубликовали на день раньше</a> планируемого из-за <a href=\"https://mobile.twitter.com/matthewhughes/status/1082325484678057984\">плохого UX WordPress</a>."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/01/how-to-learn-css/",
+      "title": "How To Learn CSS",
+      "description": "Обзор фундаментальных концепций CSS и ресурсов для их изучения от Рейчел Эндрю."
+    },
+    {
+      "url": "https://glebbahmutov.com/blog/dont-help-me-say-no/",
+      "title": "Don't help me say No",
+      "description": "Распространённые ошибки соискателей с точки зрения работодателя: Глеб Бахмутов рассказал, что вынуждает его отказывать кандидатам."
+    },
+    {
+      "url": "https://24ways.org/2018/jank-free-image-loads/",
+      "title": "Jank-Free Image Loads",
+      "description": "Эрик Портис о двух новых возможностях веб-платформы, которые позволят избежать перерисовки страницы при загрузке картинок: CSS-свойство aspect-ratio и HTML-атрибут intrinsicsize."
+    },
+    {
+      "url": "https://facebookincubator.github.io/fbt/",
+      "title": "FBT",
+      "description": "Инженеры Facebook выложили в опенсорс собственный фреймворк для интернационализации интерфейсов. API на чистом JS, хорошая интеграция с Реактом."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/",
+      "title": "Чеклист быстродействия фронтенда в 2019 году",
+      "description": "Обновлённый ежегодный чеклист от Виталия Фридмана, содержащий всё, что нужно знать для разработки быстрого фронтенда. Помимо онлайн-версии есть PDF, Apple Pages и MS Word."
+    },
+    {
+      "url": "https://overreacted.io/the-elements-of-ui-engineering/",
+      "title": "The Elements of UI Engineering",
+      "description": "Дэн Абрамов с обзором основных проблемах разработки качественных интерфейсов. Дэн считает, что самостоятельное решение любой из этих проблем без библиотек и фреймворков — отличный способ прокачаться."
+    }
+  ]
+}

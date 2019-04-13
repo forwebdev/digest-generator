@@ -1,0 +1,57 @@
+{
+  "title": "Дайджест Форвеба №3",
+  "subtitle": "Важные новости и материалы первой половины февраля 2019",
+  "description": "От серверного до клиентского рендеринга, состояние CSS, ускоритель Google Fonts, React в Яндекс.Поиске, автоматизация публикации NPM-пакетов, новые логические свойства в CSS",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-02-15/",
+  "items": [
+    {
+      "url": "https://developers.google.com/web/updates/2019/02/rendering-on-the-web",
+      "title": "Рендеринг в вебе",
+      "description": "От серверного до клиентского рендеринга: обстоятельный обзор существующих подходов и их преимуществ/недостатков от Эдди Османи и Джейсона Миллера.",
+      "image": {
+        "alt": "Обзор подходов к рендерингу в вебе",
+        "url": "https://developers.google.com/web/updates/images/2019/02/rendering-on-the-web/infographic.png"
+      }
+    },
+    {
+      "url": "https://stateofcss.com/",
+      "title": "The State of CSS 2019",
+      "description": "Первый ежегодный опрос о состоянии и трендах CSS и его экосистемы от создателей The State of JavaScript."
+    },
+    {
+      "url": "https://medium.com/p/c5046c563640",
+      "title": "Новые логические свойства в CSS!",
+      "description": "Следующий шаг в эволюции CSS: новые логические свойства, облегчающие вёрстку мультиязычных сайтов. Обзор Элада Шехтера в переводе Алёны Батицкой."
+    },
+    {
+      "url": "https://googlefonts.3perf.com/",
+      "title": "Ускоритель Google Fonts",
+      "description": "Микроскрипт от Ивана Акулова, ускоряющий отрисовку текста на 1—2 секунды в медленной сети за счёт инъекции font-display в файл стилей Google Fonts."
+    },
+    {
+      "url": "https://css-live.ru/articles/css-i-proizvoditelnost-seti.html",
+      "title": "CSS и производительность сети",
+      "description": "Подробное исследование и рекомендации Гарри Робертса в переводе CSS-Live."
+    },
+    {
+      "url": "https://www.pikapkg.com/blog/introducing-pika-pack/",
+      "title": "@pika/pack",
+      "description": "Новый инструмент для публикации NPM-пакетов, автоматизирующий большинство оптимизаций и нюансов, о которых вы могли и не знать (например, удаление из пакета ненужных файлов, используемых только при разработке)."
+    },
+    {
+      "url": "https://habr.com/p/438598/",
+      "title": "React и БЭМ: официальная коллаборация. Часть историческая",
+      "description": "Антон Виноградов о предпосылках и сложностях перехода поиска Яндекса на React."
+    },
+    {
+      "url": "https://instant.page/",
+      "title": "instant.page",
+      "description": "Микроскрипт для ускорения переходов между страницами, применяющий предзагрузку прямо перед кликом пользователя по ссылке."
+    },
+    {
+      "url": "https://www.polymer-project.org/blog/2019-02-05-lit-element-and-lit-html-release",
+      "title": "lit-html 1.0 и LitElement 2.0",
+      "description": "Релиз быстрого и лёгкого шаблонизатора lit-html и базового класса для удобной разработки веб-компонентов LitElement от Google."
+    }
+  ]
+}

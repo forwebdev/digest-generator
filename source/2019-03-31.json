@@ -6,21 +6,27 @@
   "items": [
     {
       "url": "https://3perf.com/blog/link-rels/",
-      "title": "Preload, prefetch and other <link> tags",
+      "title": "Preload, prefetch and other &lt;link&gt; tags",
       "description": "Какие есть теги-подсказки для улучшения производительности и когда их применять? Подробный обзор Ивана Акулова.",
-      "image": "https://3perf.com/static/cover-facebook-f43e995e8e0ce91de330d18106d67c75.png"
+      "image": {
+        "url": "https://3perf.com/static/cover-facebook-f43e995e8e0ce91de330d18106d67c75.png"
+      }
     },
     {
       "url": "https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/",
       "title": "Standardizing WASI: A system interface to run WebAssembly outside the web",
       "description": "WASI — системный интерфейс WebAssembly, который позволит выполнять программы на WebAssembly за пределами веба и практически на любой платформе. Лин Кларк подробно рассказала, зачем он нужен и как он устроен.",
-      "image": "https://hacks.mozilla.org/files/2019/03/featured_image.png"
+      "image": {
+        "url": "https://hacks.mozilla.org/files/2019/03/featured_image.png"
+      }
     },
     {
       "url": "https://habr.com/ru/post/445166/",
       "title": "Всё, что нужно знать об автоматических переносах в CSS",
       "description": "Ричард Раттер о переносах текста в вебе в переводе на Хабре.",
-      "image": "https://hsto.org/getpro/habr/post_images/0a8/ebd/a2c/0a8ebda2c3103c054956d6163e04b23c.jpg"
+      "image": {
+        "url": "https://hsto.org/getpro/habr/post_images/0a8/ebd/a2c/0a8ebda2c3103c054956d6163e04b23c.jpg"
+      }
     },
     {
       "url": "https://medium.com/@stasonmars/css-%D1%81%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B-4-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-af1a5170620c",

@@ -27,7 +27,7 @@ entries.forEach(entry => {
     renderForWebsite(parsedEntry)
   );
   fs.writeFileSync(
-    path.join(entryDirPath, "email.html"),
+    path.join(entryDirPath, "email.mjml"),
     renderForEmail(parsedEntry)
   );
 });

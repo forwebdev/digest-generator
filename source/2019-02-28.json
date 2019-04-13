@@ -1,0 +1,53 @@
+{
+  "title": "Дайджест Форвеба №4",
+  "subtitle": "Важные новости и материалы второй половины февраля 2019",
+  "description": "Архитектура веб-приложений, математические функции в CSS, приоритеты загрузки скриптов, безопасность Node.js, видеокодек AV1, будущее TSLint, Zero Server",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-02-28/",
+  "items": [
+    {
+      "url": "https://jasonformat.com/application-holotypes/",
+      "title": "Application Holotypes: A Guide to Architecture Decisions",
+      "description": "Обзор типовых видов веб-приложений и их характеристик, ограничений и рекомендаций по реализации от Джейсона Миллера."
+    },
+    {
+      "url": "https://twitter.com/bdc/status/1100921258839953408",
+      "title": "Новые математические функции в CSS",
+      "description": "Вести с полей от Бенджамина Де Кока: рабочая группа CSS договорилась о добавлении в язык новых математических функций clamp, sin, cos, tan, acos, asin, atan, atan2, hypot, sqrt, pow."
+    },
+    {
+      "url": "https://zeroserver.io/",
+      "title": "Zero Server",
+      "description": "Максимально простой в использовании и не требующий настройки веб-сервер с поддержкой Node.js, React, HTML и Markdown."
+    },
+    {
+      "url": "https://addyosmani.com/blog/script-priorities/",
+      "title": "JavaScript Loading Priorities in Chrome",
+      "description": "Эдди Османи с обзором способов подключения скриптов, объяснением их влияния на производительность и рекомендациями по использованию каждого способа."
+    },
+    {
+      "url": "https://nodesecroadmap.fyi/",
+      "title": "A Roadmap for Node.js Security",
+      "description": "Подробный обзор угроз безопасности и способов защиты проектов на Node.js."
+    },
+    {
+      "url": "https://evilmartians.com/chronicles/better-web-video-with-av1-codec",
+      "title": "Better web video with AV1 codec",
+      "description": "Андрей Ситник с введением в использование нового видеокодека AV1 в вебе и примером конвертации гифок в видео для максимальной экономии ресурсов."
+    },
+    {
+      "url": "https://medium.com/p/1a144c2317a9",
+      "title": "TSLint in 2019",
+      "description": "Создатели TSLint о планах на будущее: постепенный отказ от развития своего инструмента и фокус на поддержке TypeScript в ESLint."
+    },
+    {
+      "url": "https://youtu.be/Cvz-9ccflKQ",
+      "title": "Документальный фильм об Ember.js",
+      "description": "История, стоящая за Ember.js: кем, как и зачем был создан фреймворк и как он развивался."
+    },
+    {
+      "url": "https://youtu.be/XBfi3Q74BnE",
+      "title": "Make frontend “backend” again",
+      "description": "Хороший доклад Николая Рыжикова о том, как эволюционировал подход к разработке бэкенда и что из него могут позаимствовать фронтендеры, чтобы разрабатывать интерфейсы эффективнее."
+    }
+  ]
+}
