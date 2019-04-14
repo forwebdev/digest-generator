@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const rimraf = require("rimraf");
+const { preprocessEntry } = require("./preprocessors");
 const { renderForWebsite } = require("./renderers/website");
 const { renderForEmail } = require("./renderers/email");
 
@@ -19,15 +20,16 @@ fs.mkdirSync(paths.buildDir);
 
 entries.forEach(entry => {
   const parsedEntry = JSON.parse(entry.contents.toString());
+  const preprocessedEntry = preprocessEntry(parsedEntry);
   const entryDirPath = path.join(paths.buildDir, entry.name);
 
   fs.mkdirSync(entryDirPath);
   fs.writeFileSync(
     path.join(entryDirPath, "website.html"),
-    renderForWebsite(parsedEntry)
+    renderForWebsite(preprocessedEntry)
   );
   fs.writeFileSync(
     path.join(entryDirPath, "email.mjml"),
-    renderForEmail(parsedEntry)
+    renderForEmail(preprocessedEntry)
   );
 });
