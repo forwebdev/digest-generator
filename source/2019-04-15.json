@@ -1,0 +1,77 @@
+{
+  "title": "Дайджест Форвеба №7",
+  "subtitle": "Важные новости и материалы первой половины апреля 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-04-15",
+  "description": "Нативный lazy loading, Edge на Chromium, полифилл ES-модулей, новый фронтенд The Guardian, предсказуемый z-index, дубли пакетов в бандлах, нюансы бесконечной прокрутки, безопасность фронтенда",
+  "items": [
+    {
+      "url": "https://addyosmani.com/blog/lazy-loading/",
+      "title": "Native image lazy-loading for the web!",
+      "description": "Новый (пока что экспериментальный) атрибут loading для ленивой загрузки изображений и iframe появится в Chrome 75. Эдди Османи поделился подробностями и примерами использования.",
+      "image": {
+        "url": "https://addyosmani.com/assets/images/loading-attribute.png"
+      }
+    },
+    {
+      "url": "https://blogs.windows.com/msedgedev/2019/04/08/microsoft-edge-preview-channel-details/",
+      "title": "What to expect in the new Microsoft Edge Insider Channels",
+      "description": "Команда Microsoft Edge рассказала, чего ждать от новых сборок Edge на основе движка Chromium. Кстати, первые сборки для Windows 10 уже доступны.",
+      "image": {
+        "url": "https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/33/2019/04/0809d3caac868fa23c892c40c66ee5a5.png"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/post/445878/",
+      "title": "Избавляемся от дублей пакетов в бандлах",
+      "description": "Эдгар Нуруллин с обзором проблемы дублирования пакетов в бандлах и анонсом нового инструмента ostap для автоматического поиска и устранения дублей.",
+      "image": {
+        "url": "https://hsto.org/webt/1a/li/xr/1alixr4sfm2ufpvf1qeylqwqqzi.png"
+      }
+    },
+    {
+      "url": "https://github.com/lukeed/dimport",
+      "title": "dimport",
+      "description": "Полифилл ES-модулей с поддержкой динамических импортов, работающий даже в IE."
+    },
+    {
+      "url": "https://habr.com/ru/post/445932/",
+      "title": "Безопасность клиентских приложений: практические советы для фронтенд-разработчиков",
+      "description": "Лучшие практики безопасности фронтенда в обзоре Александра Руденко из Райффайзенбанка."
+    },
+    {
+      "url": "https://medium.com/p/11b098a08815",
+      "title": "Infinite Scroll’ing the right way",
+      "description": "Инженеры Walmart Labs подробно разбирают важные нюансы реализации бесконечной прокрутки и предлагают собственную производительную реализацию на основе IntersectionObserver."
+    },
+    {
+      "url": "https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier",
+      "title": "Revisiting the rendering tier",
+      "description": "Предыстория и причины модернизации фронтенда The Guardian: от 62 783 строк Sass до CSS-in-JS."
+    },
+    {
+      "url": "https://cube.dev/",
+      "title": "cube.js",
+      "description": "Опенсорсный фреймворк для аналитики со всей необходимой бэкенд-инфраструктурой и клиентскими SDK."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/",
+      "title": "Managing Z-Index In A Component-Based Web Application",
+      "description": "Павел Померанцев рассказал о предсказуемом подходе к управлению z-index в приложениях, основанных на компонентом подходе."
+    },
+    {
+      "url": "https://blog.scottlogic.com/2019/04/03/upcoming-webhid-api.html",
+      "title": "Upcoming WebHID API — access Bluetooth/USB HID devices in web applications",
+      "description": "Обзор нового WebHID API, который позволит веб-приложениям взаимодействовать со всевозможными Bluetooth/USB HID-девайсами вроде джойстиков, сенсоров или геймпадов."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/04/understanding-subresource-integrity/",
+      "title": "Understanding Subresource Integrity",
+      "description": "Дрю Маклиллан подробно объяснил, как защититься от подмены сторонних скриптов с помощью Subresource Integrity."
+    },
+    {
+      "url": "https://codex.so/editor",
+      "title": "Editor.js",
+      "description": "Опенсорсный расширяемый WYSIWYG-редактор c чистым JSON на выходе, используемый в VC, DTF и tjournal."
+    }
+  ]
+}
