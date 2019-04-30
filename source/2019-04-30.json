@@ -1,0 +1,74 @@
+{
+  "title": "Дайджест Форвеба №8",
+  "subtitle": "Важные новости и материалы второй половины апреля 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-04-30",
+  "description": "AMP под своим доменом, нюансы тёмной темы, альтернатива NPM, PWA в Google Play, Node.js 12, Svelte 3, дизайн-процессы и Figma, рабочие HTML-импорты, паттерны проектирования, локализация",
+  "items": [
+    {
+      "url": "https://blog.cloudflare.com/announcing-amp-real-url/",
+      "title": "Announcing AMP Real URL",
+      "description": "Инженеры Cloudflare придумали и реализовали способ отвязать AMP-страницы от Google и раздавать их под оригинальным доменом сайта.",
+      "image": {
+        "url": "https://blog.cloudflare.com/content/images/2019/04/amp-real-url-@2x.png"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/company/yandex/blog/446780/",
+      "title": "Как создать тёмную тему и не навредить",
+      "description": "Инженеры Яндекс.Почты о трёх основных способах реализации тёмной темы и нюансах каждого из них.",
+      "image": {
+        "url": "https://hsto.org/webt/dr/3a/ix/dr3aix8opihd2nlq6oqzjfbdtvs.png"
+      }
+    },
+    {
+      "url": "https://open-registry.dev/",
+      "title": "The Open-Registry",
+      "description": "Полностью прозрачный и открытый реестр JS-пакетов, призванный заменить централизованный и коммерческий NPM."
+    },
+    {
+      "url": "https://css-tricks.com/how-to-get-a-progressive-web-app-into-the-google-play-store/",
+      "title": "How to Get a Progressive Web App into the Google Play Store",
+      "description": "Пошаговое руководство по упаковке прогрессивного веб-приложения в нативную обёртку и публикации результата в Google Play Store."
+    },
+    {
+      "url": "https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f",
+      "title": "Introducing Node.js 12",
+      "description": "Вышла Node.js 12 с экспериментальной поддержкой ES-модулей, диагностическими отчётами и другими нововведениями."
+    },
+    {
+      "url": "https://svelte.dev/blog/svelte-3-rethinking-reactivity",
+      "title": "Svelte 3: Rethinking reactivity",
+      "description": "Вышла третья версия Svelte, компилируемого фреймворка с минимальным рантаймом: новый сайт и документация, встроенная реактивность, улучшенный DX."
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/04/design-scale-figma/",
+      "title": "Design At Scale: One Year With Figma",
+      "description": "Пол Ханаока из Liferay рассказал, как переход на Figma помог улучшить дизайн-процессы в компании."
+    },
+    {
+      "url": "https://www.filamentgroup.com/lab/html-includes/",
+      "title": "HTML Includes That Work Today",
+      "description": "Скот Йель из Filament Group делится экспериментальной техникой подключения внешних SVG и HTML-файлов."
+    },
+    {
+      "url": "https://mathiasbynens.be/notes/globalthis",
+      "title": "A horrifying globalThis polyfill in universal JavaScript",
+      "description": "Матиас Байненс подробно рассказал о нюансах реализации полифила глобального объекта для любых окружений."
+    },
+    {
+      "url": "https://habr.com/ru/post/449368/",
+      "title": "Нужно ли чистить строки в JavaScript?",
+      "description": "Обзор возможной утечки памяти, вызванной оптимизацией работы со строками, и способы её предотвращения."
+    },
+    {
+      "url": "http://designpatternsgame.com/",
+      "title": "Design Patterns Game",
+      "description": "Игра на знание распространённых паттернов проектирования, реализованных на JavaScript."
+    },
+    {
+      "url": "https://projectfluent.org/",
+      "title": "Fluent",
+      "description": "Новая система локализации интерфейсов от Mozilla, используемая в Firefox и вдохновлённая XLIFF и ICU MessageFormat."
+    }
+  ]
+}
