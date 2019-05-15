@@ -1,0 +1,78 @@
+{
+  "title": "Дайджест Форвеба №9",
+  "subtitle": "Важные новости и материалы первой половины мая 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-05-15",
+  "description": "<portal>, новый фронтенд Facebook, React Native for Windows, font-display в Google Fonts, real-time чат на CSS, вечнозелёный Googlebot, GitHub Package Registry, runpkg, новое позиционирование AMP, протокол QUIC в Uber",
+  "items": [
+    {
+      "url": "https://twitter.com/addyosmani/status/1128548064287952896",
+      "title": "Поддержка font-display в Google Fonts",
+      "description": "Эдди Османи сообщает, что теперь Google Fonts поддерживают CSS-свойство font-display: им можно управлять через параметр display в URL подключаемых шрифтов.",
+      "image": {
+        "url": "https://pbs.twimg.com/media/D6jwPG0UUAAGESP?format=png&name=4096x4096"
+      }
+    },
+    {
+      "url": "https://web.dev/hands-on-portals/",
+      "title": "Hands-on with Portals: seamless navigations on the Web",
+      "description": "Введение в порталы, новый браузерный API для анимирования переходов между страницами.",
+      "image": {
+        "url": "https://web.dev/hands-on-portals/glitch.gif"
+      }
+    },
+    {
+      "url": "https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/",
+      "title": "Building the New facebook.com with React, GraphQL and Relay",
+      "description": "Доклад инженеров Facebook о технической стороне нового фронтенда соцсети.",
+      "image": {
+        "url": "https://cdn.vox-cdn.com/thumbor/M1idt5k0x2pRRk_PRzAeI-Id8y8=/0x0:2048x1410/1820x1213/filters:focal(861x542:1187x868):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63696407/facebook_website_redesign_1.9.jpg"
+      }
+    },
+    {
+      "url": "https://github.com/microsoft/react-native-windows",
+      "title": "React Native for Windows",
+      "description": "Microsoft оживил давний проект, позволяющий разрабатывать приложения для ПК, планшетов и даже Xbox: теперь он переписывается на C++ для лучшей производительности и совместимости с ядром React Native.",
+      "image": {
+        "url": "https://raw.githubusercontent.com/microsoft/react-native-windows/master/.github/hero2.png"
+      }
+    },
+    {
+      "url": "https://github.com/kkuchta/css-only-chat",
+      "title": "CSS-only Chat",
+      "description": "Реализация полноценного real-time чата без единой строчки JS на клиенте.",
+      "image": {
+        "url": "https://camo.githubusercontent.com/351e844d827387206d272a9781bee8b0baa5458a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f64576b78415a5467394e6241687652714f652f67697068792e676966"
+      }
+    },
+    {
+      "url": "https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html",
+      "title": "The new evergreen Googlebot",
+      "description": "Поисковый бот Google теперь будет автоматически обновляться и использовать актуальную версию движка Chromium. Это означает, что у сайтов без SSR появилось больше шансов на корректную индексацию Гуглом."
+    },
+    {
+      "url": "https://github.com/features/package-registry",
+      "title": "GitHub Package Registry",
+      "description": "GitHub анонсировал собственный хостинг пакетов с поддержкой NPM, Docker, Maven, NuGet и RubyGems."
+    },
+    {
+      "url": "https://blog.amp.dev/2019/05/01/amp-as-your-web-framework/",
+      "title": "AMP as your web framework",
+      "description": "Проект Accelerated Mobile Pages переименован в AMP и теперь позиционируется как фреймворк общего назначения на основе веб-компонентов для разработки сайтов, интерактивных публикаций и писем."
+    },
+    {
+      "url": "http://blog.csssr.ru/2019/05/07/work-stronger",
+      "title": "Стимуляторы работы программиста. Здоровье",
+      "description": "Евгений Вецель о том, как повысить производительность и получать от работы больше удовольствия с помощью простых приёмов заботы о собственном здоровье."
+    },
+    {
+      "url": "https://runpkg.com/",
+      "title": "runpkg",
+      "description": "Инструмент для анализа содержимого NPM-пакетов прямо в браузере, вдохновлённый проектом unpkg."
+    },
+    {
+      "url": "https://eng.uber.com/employing-quic-protocol/",
+      "title": "Employing QUIC Protocol to Optimize Uber’s App Performance",
+      "description": "Инженеры Uber рассказали об опыте перехода на протокол QUIC для решения проблем с сетевыми задержками из-за TCP."
+    }
+  ]
+}
