@@ -1,0 +1,53 @@
+{
+  "title": "Дайджест Форвеба №10",
+  "subtitle": "Важные новости и материалы второй половины мая 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-05-31",
+  "description": "W3C и WHATWG помирились, ускорение скриптов с Binary AST, асинхронное программирование, генератор раскладки на CSS-гридах, система цветов и тёмная тема VK, управление монорепозиториями",
+  "items": [
+    {
+      "url": "https://css-live.ru/vecssti-s-polej/w3c-i-whatwg-neuzheli-dolgozhdannyj-mir.html",
+      "title": "W3C и WHATWG: неужели долгожданный мир?",
+      "description": "W3C и WHATWG наконец договорились объединить свои спецификации HTML и DOM и работать над ними совместно!",
+      "image": {
+        "url": "https://css-live.ru/wp-content/uploads/2019/05/w3c-whatwg-logos.png"
+      }
+    },
+    {
+      "url": "https://blog.cloudflare.com/binary-ast/",
+      "title": "Faster script loading with BinaryAST?",
+      "description": "Binary AST — новый формат, ускоряющий загрузку скриптов за счёт переноса фазы синтаксического разбора с клиента на сервер. Инженеры Mozilla, Facebook, Bloomberg и Cloudflare подготовили его первые реализации и поделились предварительными результатами.",
+      "image": {
+        "url": "https://blog.cloudflare.com/content/images/2019/05/binast.gif"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/post/452974/",
+      "title": "Асинхронное программирование (полный курс)",
+      "description": "Серия видеоуроков и сопутствующих примеров кода по всем аспектам асинхронного программирования от Тимура Шемсединова.",
+      "image": {
+        "url": "https://hsto.org/webt/iv/5x/mv/iv5xmvawmdyn5zzultzhqmxhyyc.png"
+      }
+    },
+    {
+      "url": "https://cssgrid-generator.netlify.com/",
+      "title": "CSS Grid Generator",
+      "description": "Визуальный генератор раскладки на CSS-гридах от Сары Дрэснер.",
+      "image": {
+        "url": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/og-cssgrid.jpg"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/company/vk/blog/449720/",
+      "title": "Как оседлать радугу: история создания тёмной темы",
+      "description": "Дизайнеры VK рассказали, как они сделали тёмную тему и попутно сформировали глобальный подход к работе с цветами на всех платформах.",
+      "image": {
+        "url": "https://hsto.org/webt/my/8y/md/my8ymdnjeingejpr0z0az7eiyqi.png"
+      }
+    },
+    {
+      "url": "https://rushjs.io/",
+      "title": "Rush: a scalable monorepo manager for the web",
+      "description": "Альтернатива Lerna для работы с JavaScript-монорепозиториями, разрабатываемая и используемая в Microsoft."
+    }
+  ]
+}
