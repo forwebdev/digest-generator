@@ -1,0 +1,57 @@
+{
+  "title": "Дайджест Форвеба №12",
+  "subtitle": "Важные новости и материалы второй половины июня 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-06-30",
+  "description": "Состояние CSS в 2019, дизайн-система ivi, замена Gulp от Microsoft, сервис-воркер в поиске Google, учебник по вёрстке, вопросы для собеседований, комбинаторы промисов, цена JavaScript в 2019",
+  "items": [
+    {
+      "url": "https://2019.stateofcss.com/",
+      "title": "The State of CSS 2019",
+      "description": "Результаты опроса The State of CSS 2019: демография, используемые фичи/технологии/методологии, мнения и многое другое.",
+      "image": {
+        "url": "https://2019.stateofcss.com/images/stateofcss_socialmedia.png"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/company/ivi/blog/456854/",
+      "title": " От UI-kit до дизайн-системы",
+      "description": "Дизайнеры онлайн-кинотеатра ivi поделились опытом реализации дизайн-системы для всех платформ.",
+      "image": {
+        "url": "https://hsto.org/webt/vb/wj/nk/vbwjnkrs2vmsiuxuru0t1fxlml8.jpeg"
+      }
+    },
+    {
+      "url": "https://microsoft.github.io/just/",
+      "title": "Just",
+      "description": "Библиотека от Microsoft для организации задач сборки в JS-проектах (по сути аналог Gulp) с возможностью скаффолдинга.",
+      "image": {
+        "url": "https://microsoft.github.io/just/img/sample-2x.png"
+      }
+    },
+    {
+      "url": "https://web.dev/google-search-sw/",
+      "title": "Bringing service workers to Google Search",
+      "description": "Подробный рассказ инженеров Google о мотивации, процессе и сложностях внедрения сервис-воркера на страницу поисковой выдачи."
+    },
+    {
+      "url": "https://every-layout.dev/",
+      "title": "Every Layout",
+      "description": "Практический учебник по вёрстке композируемых и надёжных UI-компонентов: от примитивов до сложных раскладок с примерами и объяснениями задач и решений."
+    },
+    {
+      "url": "https://github.com/lydiahallie/javascript-questions",
+      "title": "List of (Advanced) JavaScript Questions",
+      "description": "Список вопросов на знание JavaScript для собеседований, ответы и объяснения прилагаются."
+    },
+    {
+      "url": "https://v8.dev/features/promise-combinators",
+      "title": "Promise combinators",
+      "description": "Promise.all, Promise.race, Promise.any и Promise.allSettled: обзор существующих комбинаторов промисов в блоге V8."
+    },
+    {
+      "url": "https://v8.dev/blog/cost-of-javascript-2019",
+      "title": "The cost of JavaScript in 2019",
+      "description": "Эдди Османи о том, как JS влияет на перформанс и где основные узкие места."
+    }
+  ]
+}
