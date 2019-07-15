@@ -1,0 +1,63 @@
+{
+  "title": "Дайджест Форвеба №13",
+  "subtitle": "Важные новости и материалы первой половины июля 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-07-15",
+  "description": "SOLID, история GraphQL, правила русской типографики, 9 лет в монолите, секрет хороших приложений на Electron, weak references, структурный поиск по коду, JS-движок для Android-приложений на React Native",
+  "items": [
+    {
+      "url": "https://ota-solid.now.sh/",
+      "title": "SOLID",
+      "description": "Книга Саши Беспоясова и Артёма Самофалова о проектировании устойчивых систем с помощью принципов ООП. Код на TypeScript, интерактивные тесты в конце каждой главы, примеры из реальной жизни.",
+      "image": {
+        "url": "https://ota-solid.now.sh/static/socials.png"
+      }
+    },
+    {
+      "url": "https://youtu.be/783ccP__No8",
+      "title": "GraphQL: The Documentary",
+      "description": "Документальный фильм об истории создания и развития GraphQL.",
+      "image": {
+        "url": "https://img.youtube.com/vi/783ccP__No8/maxresdefault.jpg"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/post/458640/",
+      "title": "В поисках длинного тире",
+      "description": "Базовые типографические правила русского языка в карточках от Вани Соловьёва из DocDoc: кавычки, виды тире, валюты, отбивка чисел, висячие предлоги, номера телефонов, время, адреса, даты и многое другое.",
+      "image": {
+        "url": "https://hsto.org/getpro/habr/post_images/c9b/4e6/3c5/c9b4e63c541e6f1573f0c66d288f2068.png"
+      }
+    },
+    {
+      "url": "https://habr.com/p/459206/",
+      "title": "9 лет в монолите на Node.js",
+      "description": "Евгений Бондаренко о плюсах и минусах монолита и микросервисов на основе реального опыта OneTwoTrip."
+    },
+    {
+      "url": "http://www.graspjs.com/",
+      "title": "grasp",
+      "description": "Утилита для продвинутого рефакторинга и поиска по JS-коду на основе его структуры"
+    },
+    {
+      "url": "https://jlongster.com/secret-of-good-electron-apps",
+      "title": "The Secret of Good Electron Apps",
+      "description": "Секрет хороших приложений на Electron заключается в использовании фонового процесса, считает Джеймс Лонг и рассказывает о преимуществах такого подхода."
+    },
+
+    {
+      "url": "https://hermesengine.dev/",
+      "title": "Hermes",
+      "description": "Новый JS-движок для Android-приложений на React Native: потребляет меньше памяти, запускается быстрее и уменьшает вес APK."
+    },
+    {
+      "url": "https://v8.dev/features/weak-references",
+      "title": "Weak references and finalizers",
+      "description": "Обзор нового API для создания слабых ссылок на объекты и подписки на их удаление сборщиком мусора."
+    },
+    {
+      "url": "https://www.levelupwasm.com/",
+      "title": "Level Up with WebAssembly",
+      "description": "Практическая книга о применении WebAssembly в браузере."
+    }
+  ]
+}
