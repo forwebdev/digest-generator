@@ -1,0 +1,78 @@
+{
+  "title": "Дайджест Форвеба №14",
+  "subtitle": "Важные новости и материалы второй половины июля 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-08-01",
+  "description": "Опыт Uber, Twitter, Slack, Microsoft, auto.ru и Яндекса; профилирование webpack-сборки; алгебраические эффекты; проблемы комбинаторов промисов; нюансы CSS-маржинов.",
+  "items": [
+    {
+      "url": "https://eng.uber.com/web-booking-flow/",
+      "title": "Building a More Seamless Web Booking Flow for Uber",
+      "description": "Веб-приложение Uber 2 года спустя: Fusion.js вместо самописного фреймворка поверх Preact, десктопная версия, улучшенная производительность. Подробный рассказ о нововведениях и их предпосылках.",
+      "image": {
+        "url": "https://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/Web_Booking_Flow_feature_image-1068x601.png"
+      }
+    },
+    {
+      "url": "https://jeffwilcox.blog/2019/06/scaling-25k/",
+      "title": "Scaling from 2,000 to 25,000 engineers on GitHub at Microsoft",
+      "description": "Как в Microsoft используют ГитХаб и как был пройден путь от 2 000 до 25 000 инженеров в организации на ГитХабе: подробнейший рассказ Джеффа Вилкокса.",
+      "image": {
+        "url": "https://az414997.vo.msecnd.net/waz/2019gh/org-insights.png"
+      }
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/07/margins-in-css/",
+      "title": "Everything You Need To Know About CSS Margins",
+      "description": "Рейчел Эндрю с обзором неочевидных, но важных нюансов маржинов вроде схлопывания и поведения внутри флекс-контейнеров.",
+      "image": {
+        "url": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_auto/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/146404a4-5c8c-45fb-8d73-8813c768a064/css2-box-model.png"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/company/yandex/blog/460373/",
+      "title": "«Под капотом» Турбо-страниц: архитектура технологии быстрой загрузки веб-страниц",
+      "description": "Стас Макеев с детальным обзором технических решений и метрик, стоящих за сервисом доставки облегчённых версий сайтов.",
+      "image": {
+        "url": "https://hsto.org/webt/pw/g0/8w/pwg08wrb3dnoc5cozornpe_6uco.png"
+      }
+    },
+    {
+      "url": "https://dev.to/vitalets/what-s-wrong-with-promise-allsettled-and-promise-any-5e6o",
+      "title": "What's wrong with Promise.allSettled() and Promise.any()?",
+      "description": "Виталий Потапов о неконсистентности и чрезмерном усложнении API новых комбинаторов промисов.",
+      "image": {
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--8BDKGYLO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/odc478hn8625r38wyejb.png"
+      }
+    },
+    {
+      "url": "https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4",
+      "title": "When a rewrite isn’t: rebuilding Slack on the desktop",
+      "description": "Подробный рассказ о том, как десктопный клиент Slack был постепенно модернизирован от jQuery и ручного управления DOM до новой архитектуры с Реактом и Редаксом."
+    },
+    {
+      "url": "https://samsaccone.com/posts/why-is-my-webpack-build-slow.html",
+      "title": "Why is my webpack build slow?",
+      "description": "Сэм Сакконе с обзором способов профилирования webpack-сборки для поиска узких мест."
+    },
+    {
+      "url": "https://habr.com/ru/company/yandex/blog/459924/",
+      "title": "Полный цикл тестирования React-приложений",
+      "description": "Наталья Стусь и Алексей Андросов рассказали, как устроено тестирование фронтенда в auto.ru."
+    },
+    {
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "title": "Алгебраические эффекты для простых смертных",
+      "description": "Дэн Абрамов объясняет новую концепцию, которая в будущем может качественно изменить подход к программированию."
+    },
+    {
+      "url": "https://habr.com/ru/company/yandex/blog/460811/",
+      "title": "Общие компоненты силами разных команд",
+      "description": "Запись и расшифровка доклада Владимира Гриненко об эволюции подхода к разработке общей библиотеки компонентов в Яндексе."
+    },
+    {
+      "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingfasterwithcomponents.html",
+      "title": "How using component-based design helps us build faster",
+      "description": "Инженеры Twitter рассказали, как переход к компонентному подходу позволил им ощутимо ускорить разработку."
+    }
+  ]
+}
