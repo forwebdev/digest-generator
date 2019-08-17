@@ -1,0 +1,75 @@
+{
+  "title": "Дайджест Форвеба №15",
+  "subtitle": "Важные новости и материалы первой половины августа 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-08-17",
+  "description": "Современный учебник JavaScript, Contact Picker API, Flow → TypeScript, ускорение веб-версии Instagram, спецификации, конкурс Telegram, двухфакторная аутентификация, Largest Contentful Paint, Network Information API",
+  "items": [
+    {
+      "url": "https://learn.javascript.ru/",
+      "title": "Современный учебник JavaScript",
+      "description": "Вышла новая редакция современного учебника JavaScript: используется ES2019, убраны устаревшие темы, добавлено множество новых тем, улучшена структура изложения.",
+      "image": {
+        "url": "https://learn.javascript.ru/img/site_preview_ru_1200x630.png"
+      }
+    },
+    {
+      "url": "https://developers.google.com/web/updates/2019/08/contact-picker",
+      "title": "A Contact Picker for the Web",
+      "description": "Введение в Contact Picker, новый экспериментальный API для доступа к контактам пользователя.",
+      "image": {
+        "url": "https://developers.google.com/web/updates/images/2019/08/contact-picker-user-choice.jpg"
+      }
+    },
+    {
+      "url": "https://habr.com/ru/company/directum/blog/462055/",
+      "title": "Опыт перевода большого проекта с Flow на TypeScript",
+      "description": "Инженеры DIRECTUM о причинах, процессе и проблемах перевода большого проекта с Flow на TypeScript.",
+      "image": {
+        "url": "https://hsto.org/webt/xa/d8/h1/xad8h1wgyhpfy1jydrgxmuqy1ga.jpeg"
+      }
+    },
+    {
+      "url": "https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538",
+      "title": "Making Instagram.com faster: Part 1",
+      "description": "Первая часть рассказа об ускорении веб-версии Instagram: предзагрузка ресурсов и механизм подгрузки изображений в ленте."
+    },
+    {
+      "url": "https://css-live.ru/css/fantasticheskie-veb-specifikacii-i-gde-oni-obitayut.html",
+      "title": "Фантастические веб-спецификации и где они обитают",
+      "description": "Илья Стрельцын о том, что нужно знать для ориентирования в спецификациях."
+    },
+    {
+      "url": "https://habr.com/ru/company/lanit/blog/460625/",
+      "title": "Как я не занял первое место в конкурсе для JavaScript-разработчиков от Telegram",
+      "description": "Валерий Шибанов об опыте разработки библиотеки для рисования графиков для конкурса Telegram.",
+      "image": {
+        "url": "https://hsto.org/getpro/habr/post_images/3ea/607/144/3ea6071449116820be794f886f9ebc21.png"
+      }
+    },
+
+    {
+      "url": "https://habr.com/ru/post/462945/",
+      "title": "Генерируем одноразовые пароли для 2FA в JS с помощью Web Crypto API",
+      "description": "Александр Хованский на практике разобрался, как устроена двухфакторная аутентификация и как реализовать генерацию одноразовых паролей на JS.",
+      "image": {
+        "url": "https://hsto.org/webt/ug/0m/yf/ug0myfmi3y1iwrq3csxfsp1j6c0.png"
+      }
+    },
+    {
+      "url": "https://web.dev/largest-contentful-paint/",
+      "title": "Largest Contentful Paint",
+      "description": "Филип Уолтон о новой метрике быстродействия для измерения скорости отрисовки значимого содержимого страницы.",
+      "image": {
+        "url": "https://web.dev/largest-contentful-paint/lcp-cnn-filmstrip.png"
+      }
+    },
+    {
+      "url": "https://blog.algolia.com/netinfo-api-algolia-javascript-client/",
+      "title": "Using NetInfo API to Improve Algolia’s JavaScript Client",
+      "description": "Инженеры Algolia об опыте применения Network Information API для определения скорости сети и динамической настройки таймаутов.",
+      "image": {
+        "url": "https://blog.algolia.com/wp-content/uploads/2019/07/NetInfo-API-Blog-post.png"
+      }
+    }
+  ]
+}
