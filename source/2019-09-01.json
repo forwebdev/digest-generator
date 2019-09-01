@@ -1,0 +1,94 @@
+{
+  "title": "Дайджест Форвеба №16",
+  "subtitle": "Важные новости и материалы второй половины августа 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-09-01",
+  "description": "Энергоэффективный фронтенд, Figma и плагины, рисование текста на Canvas, дизайн-система Dropbox, умный автокомплит, предзагрузка изображений, требования к кастомным контролам, ES-модули в продакшене, альтернатива Electron на Qt, нативный виртуальный скроллинг, Native File System API, GPU-вычисления в вебе, оператор optional chaining",
+  "items": [
+    {
+      "url": "https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/",
+      "title": "How Web Content Can Affect Power Usage",
+      "description": "Как фронтенд влияет на расход аккумулятора? Обзор факторов и практические советы по анализу и повышению энергоэффективности сайта от Саймона Фрейзера.",
+      "image": {
+        "url": "https://webkit.org/wp-content/uploads/Power-heavy-website-light.png"
+      }
+    },
+    {
+      "url": "https://www.figma.com/blog/how-we-built-the-figma-plugin-system/",
+      "title": "How to build a plugin system on the web and also sleep well at night",
+      "description": "Инженеры Figma подробно рассказали, как они продумали и реализовали систему плагинов, отвечающую их требованиям безопасности и быстродействия.",
+      "image": {
+        "url": "https://images.ctfassets.net/1khq4uysbvty/71O2PpWhzaRrK1Qt1EpHYp/053d213acd6e287cc915869e6b1d13cb/Plugins_Eng_IAA__2_.png?w=1340"
+      }
+    },
+    {
+      "url": "https://habr.com/en/company/miro/blog/458624/",
+      "title": "Как мы учились рисовать тексты на Canvas",
+      "description": "Инженеры платформы для визуальной коллаборации Miro о нюансах отрисовки текста на Canvas, переезде с Flash на Canvas и отказе от SVG foreignObject.",
+      "image": {
+        "url": "https://habrastorage.org/webt/jf/x3/vm/jfx3vm1-ffhat8wfv1jwvc5vf6i.gif"
+      }
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/08/faster-image-loading-embedded-previews/",
+      "title": "Faster Image Loading With Embedded Image Previews",
+      "description": "Обзор новой техники предзагрузки изображений, не требующей генерации отдельной версии картинки в маленьком разрешении.",
+      "image": {
+        "url": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_auto/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c70e9e9a-6d5e-425d-b16f-6ff97fe4e6a3/jpeg-sos.png"
+      }
+    },
+    {
+      "url": "https://dropbox.design/article/design-tooling-at-scale",
+      "title": "Design Tooling at Scale",
+      "description": "Дизайнеры Dropbox рассказали, как они переехали на Figma и организовали в ней свою кроссплатформенную дизайн-систему.",
+      "image": {
+        "url": "https://images.ctfassets.net/b0ohx72wwp4z/2T7Nzmfy6dO5EEO9TIMS6y/304272c18188560ac7daa034a4cb9b90/Web_Components_-_16_9.png"
+      }
+    },
+    {
+      "url": "https://tabnine.com",
+      "title": "TabNine",
+      "description": "Умный автокомплит для любых языков программирования, использующий машинное обучение для предсказания намерений программиста."
+    },
+    {
+      "url": "https://blog.atulr.com/nodegui-intro/",
+      "title": "Announcing NodeGUI and React NodeGUI",
+      "description": "Альтернатива Electron на основе Qt для разработки десктопных приложений: потребляет мало ресурсов, поддерживает TypeScript и стилизацию на CSS, есть React-версия (что-то вроде React Native)."
+    },
+    {
+      "url": "https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/",
+      "title": "Using Native JavaScript Modules in Production Today",
+      "description": "Филип Уолтон развеивает распространённые опасения и показывает, как использовать ES-модули, чтобы ускорить загрузку сайта."
+    },
+    {
+      "url": "http://adrianroselli.com/2019/08/basic-custom-control-requirements.html",
+      "title": "Basic Custom Control Requirements",
+      "description": "Чеклист от Адриана Розелли для тех, кому нужно реализовать кастомный селект, календарь или любой другой не нативный контрол."
+    },
+    {
+      "url": "https://developers.google.com/web/updates/2019/08/native-file-system",
+      "title": "The Native File System API: Simplifying access to local files",
+      "description": "Введение в Native File System API, новый API для работы с локальными файлами.",
+      "image": {
+        "url": "https://developers.google.com/web/updates/images/2019/08/fs-save-permission.jpg"
+      }
+    },
+    {
+      "url": "https://github.com/WICG/virtual-scroller",
+      "title": "A built-in virtual scroller for the web platform",
+      "description": "Предложение по добавлению в веб-платформу нативного API для реализации виртуального скролла."
+    },
+    {
+      "url": "https://v8.dev/features/optional-chaining",
+      "title": "Optional chaining",
+      "description": "Введение в optional chaining operator, позволяющий безопасно обращаться к глубоким полям во вложенных структурах."
+    },
+    {
+      "url": "https://developers.google.com/web/updates/2019/08/get-started-with-gpu-compute-on-the-web",
+      "title": "Get started with GPU Compute on the Web",
+      "description": "Введение в GPU-вычисления в вебе.",
+      "image": {
+        "url": "https://developers.google.com/web/updates/images/2019/08/matrix-execution.jpg"
+      }
+    }
+  ]
+}
