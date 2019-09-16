@@ -1,0 +1,61 @@
+{
+  "title": "Дайджест Форвеба №17",
+  "subtitle": "Важные новости и материалы первой половины сентября 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-09-16",
+  "description": "Can I use для email, GraphQL в Revolut, мобильная навигация снизу, прогрессивная загрукза HTML в Instagram, переполнение в CSS, переход со Sketch на Figma, вопросы к компании для соискателей",
+  "items": [
+    {
+      "url": "https://www.caniemail.com",
+      "title": "Can I email...",
+      "description": "Таблица доступности возможностей веб-платформы в email-движках.",
+      "image": {
+        "url": "https://www.caniemail.com/assets/images/og.png"
+      }
+    },
+    {
+      "url": "https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9",
+      "title": "How we learned to stop worrying and love GraphQL",
+      "description": "Инженеры Revolut о том, почему и как они начали использовать GraphQL.",
+      "image": {
+        "url": "https://miro.medium.com/max/3266/1*G6BPG3v8WCtPjg-9PiMK2w.jpeg"
+      }
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/08/bottom-navigation-pattern-mobile-web-pages/",
+      "title": "Bottom Navigation Pattern On Mobile Web Pages: A Better Alternative?",
+      "description": "Артур Леонов предлагает улучшить UX мобильных сайтов, перенеся навигацию вниз.",
+      "image": {
+        "url": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_auto/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fb56153-96e4-4a03-a385-9e2d05bcbb9f/5-slack-bottom-nav-bottom-navigation-pattern.jpg"
+      }
+    },
+    {
+      "url": "https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4",
+      "title": "Making Instagram.com faster: Part 2",
+      "description": "Вторая часть рассказа об ускорении веб-версии Instagram, посвящённая прогрессивной загрузке HTML.",
+      "image": {
+        "url": "https://miro.medium.com/max/1704/1*SMeBpIo_8ylAiMDixmr5HA.png"
+      }
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/09/overflow-data-loss-css/",
+      "title": "Overflow And Data Loss In CSS",
+      "description": "Рэйчел Эндрю о ситуациях, в которых может возникнуть переполнение контейнера содержимым, и современных средствах CSS для более надёжной вёрстки под неизвестное количество содержимого.",
+      "image": {
+        "url": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_auto/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/774c2867-a5c1-4b9a-b754-16d90db6c456/float-awesome.png"
+      }
+    },
+    {
+      "url": "https://www.smashingmagazine.com/2019/09/migrating-design-systems-sketch-figma/",
+      "title": "Moving From Sketch To Figma: A Case Study Of Migrating Design Systems",
+      "description": "Переход со Sketch на Figma, опыт дизайнеров Help Scout: мотивация, пошаговый план переезда и выводы.",
+      "image": {
+        "url": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_auto/w_2000/https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4279ea51-da80-4a59-a8b9-c352e46619f6/04-migrating-design-system-from-sketch-to-figma.png"
+      }
+    },
+    {
+      "url": "https://github.com/viraptor/reverse-interview",
+      "title": "Reverse interview",
+      "description": "Cписок вопросов, которые соискателю стоит задать компании на собеседовании."
+    }
+  ]
+}
