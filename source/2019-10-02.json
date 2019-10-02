@@ -1,0 +1,95 @@
+{
+  "title": "Дайджест Форвеба №18",
+  "subtitle": "Важные новости и материалы второй половины сентября 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-10-02",
+  "description": "Оптимизация Wikipedia, восстановление личной эффективности, сервис-воркер и тёмная тема в Slack, разработка под KaiOS, важность автозаполнения, вариативные шрифты в Google Fonts, слоёный box-shadow, как рисует браузер, HTTP/3, визуализация данных в GitLab",
+  "items": [
+    {
+      "url": "https://phabricator.wikimedia.org/phame/post/view/175/wikipedia_s_javascript_initialisation_on_a_budget/",
+      "title": "Wikipedia's JavaScript initialisation on a budget",
+      "description": "Как инженеры Wikipedia добились экономии 4.3 ТБ трафика ежедневно: подробный рассказ об оптимизации основного JS-бандла сервиса.",
+      "image": {
+        "url": "https://phab.wmfusercontent.org/file/data/t64rdovzxdi7lzxxxkh3/PHID-FILE-lwaqoruegcizfxzsza5m/wmchart.png"
+      }
+    },
+    {
+      "url": "https://youtu.be/Xg-oZp0EcYc?t=25572",
+      "title": "42",
+      "description": "Новый доклад Вадима Макишвили (автора легендарного доклада «36») о том, почему и как личную эффективность нужно восстанавливать, а не повышать."
+    },
+    {
+      "url": "https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88",
+      "title": "Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support",
+      "description": "Инженеры Slack о применении сервис-воркеров для быстрой инициализации приложения и его работы в офлайне.",
+      "image": {
+        "url": "https://miro.medium.com/max/3518/1*7qmnO0YjDY_yneOwUJno3g.png"
+      }
+    },
+    {
+      "url": "https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f",
+      "title": "Building Dark Mode on Desktop",
+      "description": "Ещё один материал от разработчиков Slack об истории и деталях реализации тёмной темы.",
+      "image": {
+        "url": "https://miro.medium.com/max/4512/1*LjRHaoTgo9NrwURO66PIVw.png"
+      }
+    },
+    {
+      "url": "https://v8.dev/features/nullish-coalescing",
+      "title": "Nullish coalescing",
+      "description": "Введение в новый оператор nullish coalescing, позволяющий задать альтернативу null или undefined."
+    },
+    {
+      "url": "https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/",
+      "title": "The joy and challenge of developing for KaiOS",
+      "description": "Нолан Лоусон делится опытом разработки для второй по популярности в Индии ОС после Android.",
+      "image": {
+        "url": "https://nolanwlawson.files.wordpress.com/2019/09/vlcsnap-2019-09-21-19h22m03s808.png"
+      }
+    },
+    {
+      "url": "https://cloudfour.com/thinks/an-html-attribute-potentially-worth-4-4m-to-chipotle/",
+      "title": "An HTML attribute potentially worth $4.4M to Chipotle",
+      "description": "История сломанной формы, демонстрирующая важность корректной поддержки автозаполнения.",
+      "image": {
+        "url": "https://29comwzoq712ml5vj5gf479x-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/chipotle-errors.png"
+      }
+    },
+    {
+      "url": "https://codepen.io/nlwilliams/full/JjPJewp",
+      "title": "Fonts – a dish best served variable",
+      "description": "В Google Fonts появилась экспериментальная поддержка вариативных шрифтов."
+    },
+    {
+      "url": "https://tobiasahlin.com/blog/layered-smooth-box-shadows/",
+      "title": "Smoother & sharper shadows with layered box-shadows",
+      "description": "Обзор новой техники, позволяющей сделать тени более реалистичными.",
+      "image": {
+        "url": "https://habrastorage.org/webt/nx/gb/oj/nxgbojlgpnufcjbyqbpjj1jskgo.png"
+      }
+    },
+    {
+      "url": "https://habr.com/en/company/yandex/blog/468165/",
+      "title": "Как рисует браузер",
+      "description": "Запись и расшифровка доклада Константина Крамлиха из Яндекс.Браузера о том, что у браузера под капотом и как он превращает страницы в пиксели на экране.",
+      "image": {
+        "url": "https://habrastorage.org/webt/cu/uk/m0/cuukm04v2xohnl0t4x2u86qf6je.jpeg"
+      }
+    },
+    {
+      "url": "https://blog.cloudflare.com/http3-the-past-present-and-future/",
+      "title": "HTTP/3: the past, the present, and the future",
+      "description": "Какие проблемы решает новый стандарт HTTP, где он поддерживается и как начать его использовать.",
+      "image": {
+        "url": "https://blog-cloudflare-com-assets.storage.googleapis.com/2019/09/HTTP3-partnership@2x-1.png"
+      }
+    },
+    {
+      "url": "https://about.gitlab.com/2019/09/30/why-we-chose-echarts/",
+      "title": "Why we chose ECharts for data visualizations",
+      "description": "Инженеры GitLab о причинах отказа от D3 и опыте перехода на ECharts.",
+      "image": {
+        "url": "https://about.gitlab.com/images/blogimages/why-we-chose-echarts/implementation.png"
+      }
+    }
+  ]
+}
