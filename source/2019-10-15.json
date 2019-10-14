@@ -1,0 +1,80 @@
+{
+  "title": "Дайджест Форвеба №19",
+  "subtitle": "Важные новости и материалы первой половины октября 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-10-15",
+  "description": "Фронтенд Pornhub, безопасность локфайлов, дизайн-система Slack, cache-first в Instagram, общая UI-библиотека Tinkoff, каскадная инвалидация кеша, графика для веба правильно, UX кликабельных элементов, игра в 13 КБ кода",
+  "items": [
+    {
+      "url": "https://davidwalsh.name/pornhub-interview",
+      "title": "Interview with a Pornhub Web Developer",
+      "description": "Интервью с фронтендером из Pornhub о специфике работы, используемых технологиях и экспериментах с новыми браузерными API.",
+      "image": {
+        "url": "https://davidwalsh.name/demo/PornHubLogo.png"
+      }
+    },
+    {
+      "url": "https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/",
+      "title": "Why npm lockfiles can be a security blindspot for injecting malicious modules",
+      "description": "Лиран Тал демонстрирует атаку через локфайл и делится линтером локфайлов для защиты от таких атак.",
+      "image": {
+        "url": "https://snyk.io/wp-content/uploads/NPM-Inject-feature.png"
+      }
+    },
+    {
+      "url": "https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit-8a2830484259",
+      "title": "The Gradual Design System: How We Built Slack Kit",
+      "description": "Инженеры Slack о предпосылках и истории создания своей дизайн-системы.",
+      "image": {
+        "url": "https://miro.medium.com/max/3000/0*9wjQodozMFLwagx7"
+      }
+    },
+    {
+      "url": "https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669",
+      "title": "Making Instagram.com faster: Part 3 — cache first",
+      "description": "Как ускоряли веб-версию Instagram, часть третья: описание подхода cache-first и механизма слияния старых данных с новыми.",
+      "image": {
+        "url": "https://miro.medium.com/max/3328/1*NGABlwJjUR2g0T23xTvWoQ.png"
+      }
+    },
+    {
+      "url": "https://habr.com/en/company/tinkoff/blog/468589/",
+      "title": "Как организовать работу над библиотекой общих компонентов",
+      "description": "Инженеры Tinkoff поделились опытом развития библиотеки общих компонентов.",
+      "image": {
+        "url": "https://habrastorage.org/webt/sk/dp/oc/skdpockyegii7c9rhkmcmfltxks.png"
+      }
+    },
+    {
+      "url": "https://philipwalton.com/articles/cascading-cache-invalidation/",
+      "title": "Cascading Cache Invalidation",
+      "description": "Филип Уолтон демонстрирует неочевидную проблему в популярном подходе к кешированию и предлагает три решения.",
+      "image": {
+        "url": "https://philipwalton.com/static/caching-module-dependency-graph-after-862499fbf1.svg"
+      }
+    },
+    {
+      "url": "https://evilmartians.com/chronicles/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques",
+      "title": "Images done right: Web graphics, good to the last byte",
+      "description": "Подробнейшая статья Полины Гуртовой и Риты Клубочкиной из «Злых марсиан» о форматах и оптимизации графики для веба.",
+      "image": {
+        "url": "https://cdn.evilmartians.com/front/posts/images-done-right-web-graphics-good-to-the-last-byte-optimization-techniques/tldr-a187308.png"
+      }
+    },
+    {
+      "url": "https://www.ishadeed.com/article/clickable-area/",
+      "title": "Enhancing The Clickable Area Size",
+      "description": "Увеличиваем кликабельную область: Ахмад Шадид на примерах показывает, как избежать распространённой ошибки, портящей UX.",
+      "image": {
+        "url": "https://www.ishadeed.com/assets/clickable-area/image-1.jpg"
+      }
+    },
+    {
+      "url": "https://phoboslab.org/log/2019/09/voidcall-making-of",
+      "title": "Voidcall — Making of",
+      "description": "Подробный рассказ Доминика Саблевского о технических деталях реализации стратегии реального времени Voidcall для конкурса js13kGames, в котором размер игр не должен превышать 13 КБ.",
+      "image": {
+        "url": "https://phoboslab.org/content/assets/voidcall-screenshot.jpg"
+      }
+    }
+  ]
+}
