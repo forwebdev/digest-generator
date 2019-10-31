@@ -1,0 +1,71 @@
+{
+  "title": "Дайджест Форвеба №20",
+  "subtitle": "Важные новости и материалы второй половины октября 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-10-31",
+  "description": "Убийство IE6, нужен ли GraphQL в эпоху HTTP/2, SMS Receiver API, современное руководство по Make, доступные палитры цветов, хитрости CSS-переменных, фреймворк инициализации Slack, revert и новый синтаксис display в CSS, ориентация изображений в вебе, PWA в Samsung Galaxy Store",
+  "items": [
+    {
+      "url": "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6",
+      "title": "A Conspiracy To Kill IE6",
+      "description": "Захватывающая история о том, как разработчики YouTube практически убили IE6 в 2009 году, тайно выложив в продакшен баннер с предложением перейти на другие браузеры.",
+      "image": {
+        "url": "https://cz.imgix.net/youtube-ie6-highlight.png?fm=pjpg&w=800&border=1,000"
+      }
+    },
+    {
+      "url": "https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8",
+      "title": "Is GraphQL Still Relevant in an HTTP2 World?",
+      "description": "Марк-Андре Жиру объясняет, чем на самом деле ценен GraphQL и почему получение данных одним запросом — не главное преимущество."
+    },
+    {
+      "url": "https://web.dev/sms-receiver-api-announcement",
+      "title": "Verify Phone Numbers on the Web with the SMS Receiver API",
+      "description": "Введение в новый SMS Receiver API, упрощающий ввод одноразовых паролей из SMS в веб-приложениях."
+    },
+    {
+      "url": "https://ru.makefile.site",
+      "title": "Make: современное руководство",
+      "description": "Краткая выжимка наиболее полезных для современных разработчиков возможностей Make от Ивана Немытченко."
+    },
+    {
+      "url": "https://stripe.com/en-pt/blog/accessible-color-systems",
+      "title": "Designing Accessible Color Systems",
+      "description": "Дизайнеры Stripe об опыте и проблемах подбора доступных и в то же время красивых цветов."
+    },
+    {
+      "url": "https://css-live.ru/tricks/malenkie-xitrosti-kastomnyx-svojstv-css-peremennyx.html",
+      "title": "Маленькие хитрости кастомных свойств",
+      "description": "Илья Стрельцын делится неочевидными возможностями и нюансами применения CSS-переменных."
+    },
+    {
+      "url": "https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd",
+      "title": "Gantry: Slack’s Fast-booting Frontend Framework",
+      "description": "Инженеры Slack рассказали, зачем они разработали внутренний фреймворк для быстрой инициализации приложения и как он им помог."
+    },
+    {
+      "url": "https://youtu.be/GAjoVRmipcU",
+      "title": "How to REVERT CSS — Get Back to Default Browser Style",
+      "description": "Мириам Сюзан рассказывает, как работает новое значение revert в CSS и чем оно отличается от inherit/initial/unset."
+    },
+    {
+      "url": "https://cloudfour.com/thinks/all-mixed-up-isomorphic-sorting-gone-wrong/",
+      "title": "All Mixed Up: Isomorphic Sorting Gone Wrong",
+      "description": "Почему сортировка в изоморфном приложении может сломаться и как это исправить? Пол Геберт по мотивам бага на рабочем проекте."
+    },
+    {
+      "url": "https://justmarkup.com/articles/2019-10-21-image-orientation/",
+      "title": "Image Orientation on the Web",
+      "description": "Майкл Шарналь объясняет, почему браузеры могут некорректно отображать изображения и как этого избежать."
+    },
+    {
+      "url": "https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/",
+      "title": "The Two-Value Syntax of the CSS Display Property",
+      "description": "Рэйчел Эндрю о причинах рефакторинга спецификации и новых более логичных значениях свойства display."
+    },
+    {
+      "url": "https://medium.com/samsung-internet-dev/introducing-progressive-web-apps-to-samsung-galaxy-store-47ecd317725b",
+      "title": "Introducing Progressive Web Apps to Samsung Galaxy Store",
+      "description": "Samsung начали распространять PWA через Galaxy Store: подробности и инструкции для разработчиков по добавлению своих приложений."
+    }
+  ]
+}
