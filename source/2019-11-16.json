@@ -1,0 +1,69 @@
+{
+  "title": "Дайджест Форвеба №21",
+  "subtitle": "Важные новости и материалы первой половины ноября 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-11-16",
+  "description": "Доступность и закон, интервью с Дэном Абрамовым, адаптивная потоковая передача видео в вебе, @babel/preset-modules, актуальные ресурсы о веб-компонентах, передача дизайн-макетов разработчикам, мифы о контрасте цветов, приведение типов в JavaScript, состояние веба в 2019, CodeSandbox CI, ускорение Instagram",
+  "items": [
+    {
+      "url": "https://medium.com/web-standards/a11y-and-law-a81dd9dd5fc8",
+      "title": "Доступность и закон",
+      "description": "Татьяна Фокина разбирается, какие в США, Евросоюзе и России есть законы и стандарты о веб-доступности и что будет за их нарушение.",
+      "image": {
+        "url": "https://miro.medium.com/max/3840/1*M-pThhMVUG_djKQarAGn5g.png"
+      }
+    },
+    {
+      "url": "https://youtu.be/9aXRJ8Z-kxA",
+      "title": "«Фронтенд-юность» №114: тёплый выпуск с Дэном Абрамовым",
+      "description": "Большое русскоязычное интервью с Дэном Абрамовым: популярность и Твитер, доминирование Реакта, конкуренция фреймворков, опенсорс, UX и DX, разработка в Фейсбуке, увлечения Дэна и многое другое."
+    },
+    {
+      "url": "https://www.heartinternet.uk/blog/best-practices-for-optimising-video-streams-on-the-web/",
+      "title": "Best practices for optimising video streams on the web",
+      "description": "Хороший обзор адаптивной потоковой передачи видео в вебе: зачем её использовать, как она устроена под капотом, лучшие практики реализации."
+    },
+    {
+      "url": "https://github.com/babel/preset-modules",
+      "title": "@babel/preset-modules",
+      "description": "Новый пресет для компиляции кода под современные браузеры, исправляющий браузерные баги и неточности реализации современных возможностей JS. На выходе даёт более гораздо более компактный код, чем @babel/preset-env."
+    },
+    {
+      "url": "https://about.gitlab.com/blog/2019/11/07/how-gitlab-pages-made-our-sketch-design-handoffs-easier-and-faster/",
+      "title": "How GitLab Pages made our Sketch design handoffs easier and faster",
+      "description": "Дизайнеры GitLab рассказали о своём процессе передачи макетов разработчикам, позволяющем экономить время и даже деньги."
+    },
+    {
+      "url": "https://www.notion.so/Web-Components-bookmarks-64066078f891433dbc74997dc4d64302",
+      "title": "Web Components Bookmarks",
+      "description": "Коллекция актуальных ресурсов о веб-компонентах от Сергея Куликова: от стандартов до лучших практик и готовых компонентов."
+    },
+    {
+      "url": "https://habr.com/ru/post/474400/",
+      "title": "Мифы о доступности цветового контраста",
+      "description": "Разрушение распространённых заблуждений о требованиях к контрастности цветов в переводе на Хабре.",
+      "image": {
+        "url": "https://habrastorage.org/webt/uh/ej/1o/uhej1ormrdsql_ohodab_msvt5w.png"
+      }
+    },
+    {
+      "url": "https://2ality.com/2019/10/type-coercion.html",
+      "title": "Type coercion in JavaScript",
+      "description": "Подробный обзор механизма приведения типов в JavaScript от Акселя Раушмайера."
+    },
+    {
+      "url": "https://almanac.httparchive.org/en/2019/",
+      "title": "The 2019 Web Almanac",
+      "description": "Ежегодный отчёт о состоянии веба от HTTP Archive: анализ содержимого, используемых технологий и UX миллионов сайтов."
+    },
+    {
+      "url": "https://codesandbox.io/post/codesandbox-ci-embeds",
+      "title": "Announcing CodeSandbox CI and all-new Embeds",
+      "description": "Анонс нового бесплатного CI-сервиса для опенсорсных JavaScript-библиотек, уже используемого популярными проектами вроде React, Babel, Framer и Material UI."
+    },
+    {
+      "url": "https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8",
+      "title": "Making instagram.com faster: Code size and execution optimizations (Part 4)",
+      "description": "Четвёртая часть рассказа об ускорении веб-версии Instagram, на этот раз об оптимизации парсинга и выполнения кода."
+    }
+  ]
+}
