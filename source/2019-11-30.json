@@ -1,0 +1,53 @@
+{
+  "title": "Дайджест Форвеба №22",
+  "subtitle": "Важные новости и материалы второй половины ноября 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-11-30",
+  "description": "Диаграммы состояний, фронтенд в GitLab, дизайн-система Airbnb, состояние спецификаций CSS, Deno, Redux Toolkit, ES-модули в Node.js",
+  "items": [
+    {
+      "url": "https://statecharts.github.io",
+      "title": "Welcome to the world of Statecharts",
+      "description": "Лаконичное и доступное введение в диаграммы состояний: чем они полезны программисту, почему вы уже используете их неявно, зачем и как использовать их явно."
+    },
+    {
+      "url": "https://twitter.com/xanf_ua/status/1194852796035731456",
+      "title": "Один лайк - один факт о жизни фронтенд-разработчика в GitLab",
+      "description": "Большой тред в твитере Ильи Климова о работе фронтенд-разработчиком в GitLab."
+    },
+    {
+      "url": "https://youtu.be/fHQ1WSx41CA",
+      "title": "Building (And Re-Building) the Airbnb Design System",
+      "description": "Рассказ инженеров Airbnb о том, как они сделали, а затем переделали собственную дизайн-систему, почему так вышло и какие уроки они попутно вынесли."
+    },
+    {
+      "url": "https://css-live.ru/css/css4-ne-budet-potomu-chto-on-davno-proshel-vstrechajte-css8.html",
+      "title": "CSS4 не будет… потому что он давно прошел. Встречайте CSS8!",
+      "description": "Илья Стрельцын разбирается в истории развития и текущем состоянии спецификаций CSS."
+    },
+    {
+      "url": "https://habr.com/ru/post/476972/",
+      "title": "Deno: время Node.js уходит?",
+      "description": "Евгений Бондаренко разбирается, в чём преимущества нового проекта Райана Дала и стоит ли отказываться от Node.js в его пользу"
+    },
+    {
+      "url": "https://pomb.us/build-your-own-react/",
+      "title": "Build your own React",
+      "description": "Пошаговое руководство Родриго Помбо, основанное на реальной архитектуре React."
+    },
+    {
+      "url": "https://redux-toolkit.js.org",
+      "title": "Redux Toolkit",
+      "description": "Официальный набор инструментов и практик для эффективной разработки приложений на Redux"
+    },
+    {
+      "url": "https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663",
+      "title": "Announcing core Node.js support for ECMAScript modules",
+      "description": "В Node.js 13.2.0 по умолчанию включена поддержка ES-модулей."
+    },
+    {
+      "url": "https://github.com/mweststrate/relative-deps",
+      "title": "relative-deps",
+      "description": "Утилита для связывания локальных пакетов, решающая проблемы npm/yarn link."
+    }
+  ]
+}
