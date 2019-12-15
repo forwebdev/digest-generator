@@ -1,0 +1,59 @@
+{
+  "title": "Дайджест Форвеба №23",
+  "subtitle": "Важные новости и материалы первой половины декабря 2019",
+  "webVersionLink": "https://forwebdev.ru/digest/2019-12-15",
+  "description": "Поваренная книга вёрстки, как работает viewBox, внедрение новых правил линтинга, 24 дня индивеба, цена CSS-in-JS, легковесный YouTube Embed, нагрузка компонентов на CPU, классные URI не меняются, доступный кастомный select",
+  "items": [
+    {
+      "url": "https://csslayout.io",
+      "title": "CSS Layout",
+      "description": "Большая коллекция примеров вёрстки распространённых UI-компонентов и раскладок.",
+      "image": {
+        "url": "https://habrastorage.org/webt/lu/mt/g2/lumtg2gtqipgv-a8xqng-4i4pjc.png"
+      }
+    },
+    {
+      "url": "https://wattenberger.com/guide/scaling-svg",
+      "title": "Scaling SVG Elements",
+      "description": "Амелия Уотэнберг с интерактивным объяснением принципа масштабирования SVG-элементов через viewBox.",
+      "image": {
+        "url": "https://habrastorage.org/webt/1x/uk/av/1xukavv6l1aa-cnhd4fbt-qldgy.png"
+      }
+    },
+    {
+      "url": "https://dev.to/christiankohler/one-bite-at-a-time-how-to-introduce-new-lint-rules-in-a-large-codebase-37ph",
+      "title": "One bite at a time - How to introduce new lint rules in a large codebase",
+      "description": "Кристиан Колер предлагает разумный подход к внедрению новых правил линтинга в больших проектах."
+    },
+    {
+      "url": "https://marinintim.com/2019/indieweb/",
+      "title": "24 дня индивеба",
+      "description": "Рождественский календарь Тима Маринина о том, что такое индивеб, зачем он нужен и как к нему приобщиться."
+    },
+    {
+      "url": "https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/",
+      "title": "The unseen performance costs of modern CSS-in-JS libraries in React apps",
+      "description": "Практическое исследование того, как генерация и парсинг стилей в рантайме влияют на быстродействие."
+    },
+    {
+      "url": "https://github.com/paulirish/lite-youtube-embed",
+      "title": "Lite YouTube Embed",
+      "description": "Легковесный скрипт Пола Айриша для встраивания видео с YouTube, в ~200 раз быстрее стандартного."
+    },
+    {
+      "url": "https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/",
+      "title": "JavaScript component-level CPU costs",
+      "description": "Стоян Стефанов рассказал, зачем и как измерять нагрузку JS-компонентов на CPU."
+    },
+    {
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "title": "Cool URIs don't change",
+      "description": "Тим Бернерс-Ли рассказывает, почему важно не менять адреса документов в вебе и как проектировать долговечные URI"
+    },
+    {
+      "url": "https://24ways.org/2019/making-a-better-custom-select-element/",
+      "title": "Making a Better Custom Select Element",
+      "description": "Джули Гранди рассказала, как реализовать доступный кастомный select."
+    }
+  ]
+}
